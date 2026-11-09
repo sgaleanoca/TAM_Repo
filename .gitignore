@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python y pruebas
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.pyc
+*.pyo
+*.log
+
+# Configuración interna
+.atl/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example

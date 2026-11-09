@@ -1,0 +1,3 @@
+cd /home/zerendor/Documents/TAM/Actividades/task_MNIST
+
+.venv/bin/streamlit run app.py

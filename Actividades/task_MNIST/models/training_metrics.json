@@ -1,0 +1,15 @@
+{
+  "epochs": 30,
+  "batch_size": 32,
+  "total_params": 55050,
+  "input_intensity_range": [
+    0,
+    255
+  ],
+  "normalized_0_1": false,
+  "final_train_accuracy": 0.9771000146865845,
+  "final_train_loss": 0.08798187971115112,
+  "test_accuracy": 0.95660001039505,
+  "test_loss": 0.23573452234268188,
+  "model_path": "models/mnist_mlp.keras"
+}

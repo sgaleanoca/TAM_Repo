@@ -2,6 +2,9 @@
 
 Repositorio académico de la asignatura Teoría de Aprendizaje de Máquina.
 
+# Estudiante
+Santiago Galeano
+
 ## Contenido
 
 - [Actividades](Actividades/)
